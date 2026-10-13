@@ -1,0 +1,6 @@
+departments: 8 rows, 0 duplicate rows, 0 missing cells
+employees: 15 rows, 0 duplicate rows, 0 missing cells
+products: 20 rows, 0 duplicate rows, 0 missing cells
+customers: 15 rows, 0 duplicate rows, 0 missing cells
+orders: 20 rows, 0 duplicate rows, 0 missing cells
+order_items: 40 rows, 0 duplicate rows, 0 missing cells
